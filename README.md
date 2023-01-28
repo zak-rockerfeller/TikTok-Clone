@@ -1,6 +1,8 @@
 # TikTok-Clone
 
-![tiktok](https://user-images.githubusercontent.com/55271909/215290236-ac1773a0-c2a8-462c-a534-e8f7609173eb.png)/n
+![tiktok](https://user-images.githubusercontent.com/55271909/215290236-ac1773a0-c2a8-462c-a534-e8f7609173eb.png)
+
+
 Welcome to our TikTok clone built using Flutter and Firebase! This app offers all the fun and excitement of the popular social media platform, with the added convenience of offline access thanks to the use of api_cache_manager.
 
 This app allows users to create and share short videos with a variety of filters and effects. The user interface is intuitive and easy to use, making it accessible for people of all ages and technical skill levels.
