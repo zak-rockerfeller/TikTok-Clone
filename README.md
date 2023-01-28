@@ -15,6 +15,6 @@ The app is built using Flutter, an open-source framework developed by Google tha
 
 I have also implemented a feature to allow users to connect with friends and family. Users can create a profile, follow other users, and interact with them by commenting on their videos and sending messages.
 
-If you're interested in contributing to this project, please feel free to check out our Github repository and submit a pull request. We are always looking for new ideas and feedback to help make our app even better!
+If you're interested in contributing to this project, please feel free to check out this Github repository and submit a pull request. I'm always looking for new ideas and feedback to help make the app even better!
 
-I hope you enjoy using it as much as we enjoyed building it ;)
+I hope you enjoy using it as much as I enjoyed building it ;)
