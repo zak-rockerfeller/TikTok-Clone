@@ -1,0 +1,58 @@
+name: nest_reels
+description: A new Flutter project.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.0 <3.0.0"
+
+
+dependencies:
+  cached_network_image: ^3.2.0
+  cloud_firestore: ^3.1.6
+  cupertino_icons: ^1.0.2
+  firebase_auth: ^3.3.5
+  firebase_core: ^1.11.0
+  firebase_storage: ^10.2.5
+  flutter:
+    sdk: flutter
+  get: ^4.6.1
+  image_picker: ^0.8.4+4
+  timeago: ^3.1.0
+  video_compress: ^3.1.0
+  video_player: ^2.2.11
+  font_awesome_flutter: ^8.5.0
+  equatable:
+  flutter_bloc:
+  intl:
+  api_cache_manager:
+  share: ^2.0.4
+  url_launcher: ^6.0.18
+  firebase_dynamic_links: ^0.5.0+11
+  carousel_slider: ^4.0.0
+
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+dependency_overrides:
+  firebase_core_platform_interface: 4.5.1
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/images/logo.png
+  - assets/images/logo_nest.png
+  - assets/images/
+  - assets/agent.json

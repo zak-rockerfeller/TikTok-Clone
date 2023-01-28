@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "849460004541",
+    "project_id": "nest-reels",
+    "storage_bucket": "nest-reels.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849460004541:android:65024db719cc71350659d4",
+        "android_client_info": {
+          "package_name": "com.example.nest_reels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849460004541-qr9hv3rspp1593uobvng1cobu3gkjpsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKul-CGuVjhuBR4At6ZDCjnev0iIH87Kw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849460004541-qr9hv3rspp1593uobvng1cobu3gkjpsg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
